@@ -5,7 +5,7 @@ Plugin URI: http://example.com/wordpress-plugins/my-plugin
 Description: A plugin to create Guestbook
 Version: 1.0
 Author: Robert Dabu
-Author URI: http://donsworld.co.nf/portfolio/
+Author URI: http://www.someurl.com
 License: GPLv2
 */
 
